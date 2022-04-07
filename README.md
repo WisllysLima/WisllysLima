@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋😃 this is my page of projects created to show my evolution during the Technical Course in Systems Development. 😉
 
 <!--
 **WisllysLima/WisllysLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
