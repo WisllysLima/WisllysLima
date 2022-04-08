@@ -1,7 +1,8 @@
 ### Hi there 👋😃 
 ### This is my page of projects created to show my evolution during the Course in Systems Development.😉
 ### Feel free to comment.💬
-### For contact, call me on Linkedin.⚡
+### For contact, call me on Linkedin:⚡
+✨ https://www.linkedin.com/in/wisllys-lima2323/ ✨
 
 <!--
 **WisllysLima/WisllysLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
