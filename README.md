@@ -18,3 +18,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+import Desenvolvedor from 'Wisllys Lima';
+
+class SobreMim extends Desenvolvedor {
+  nome     = 'Seu nome';
+  area    = 'Sua área';
+  trabalho  = 'Onde trabalha';
+  local = 'Local';
+}
+
+class Skills extends Desenvolvedor {
+  linguagens  = ['Suas linguagens'];
+  bibliotecas  = ['Suas bibliotecas'];
+  frameworks = ['Seus frameworks'];
+}
